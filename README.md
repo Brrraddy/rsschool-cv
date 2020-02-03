@@ -1,2 +1,2 @@
-# rolling-scopes
-homework for rolling-scope school
+
+https://brrraddy.github.io/rsschool-cv/cv 
