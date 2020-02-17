@@ -1,0 +1,47 @@
+html, body{
+    margin: auto;
+    min-width: 960px;
+    max-width: 1024px;
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 32px;
+    color: #222222;
+    background-color: #ffffff;
+}
+
+.container {
+    max-width: 928px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+.heading {
+    margin: 0 0 56px;
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    font-size: 88px;
+    line-height: 96px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.user-image  {
+    margin: 0 0 5px 5px;
+    font-size: 32px;
+    line-height: 48px;
+    float: right;
+}
+
+.intro {
+    margin: 0 0 120px;
+}
+
+.skills-list {
+    margin: 0;
+    padding: 0;
+}
+
+.skills-list li {
+    padding-left: 32px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
