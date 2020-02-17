@@ -1,2 +1,2 @@
 
-https://brrraddy.github.io/rsschool-cv/cv 
+https://brrraddy.github.io/rsschool-cv/ 
